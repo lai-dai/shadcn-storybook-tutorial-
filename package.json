@@ -7,8 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "storybook": "storybook dev -p 6006 public",
-    "build-storybook": "storybook build public",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build",
     "serve-storybook": "serve storybook-static",
     "chromatic": "npx chromatic --project-token=chpt_8750835e4ff688e"
   },
